@@ -1,0 +1,36 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-color: hsl(0, 0%, 0%);
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .page-title {
+    color: #ff2904;
+    margin: 0 0 5px;
+  }
+     
+  body > img {
+    margin: 0 10px;
+  }
+  
+  img {
+    max-height: 250px;
+  }
+
+  p {
+      color: #fafcf8;
+      font-size: 32px;
+  }
+
+  h2 {
+      color: chartreuse;
+      font-size: 32px;
+  }
